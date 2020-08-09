@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cameraframe</string>
+    <string name="take_picture">take picture</string>
+    <string name="error_grant_permission">Please, enable permission to continue.</string>
+</resources>
